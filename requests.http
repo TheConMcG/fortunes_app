@@ -1,2 +1,4 @@
 GET http://localhost:3000//fortune.json
 
+###
+GET http://localhost:3000//99bottles.json
